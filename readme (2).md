@@ -12,7 +12,7 @@ The mobile application for plant disease detection is developed using a Python-b
 - **Pesticide Recommendations**: Provides suitable pesticide suggestions based on detected disease.
 
 ## 2. Usage
-![Uploading the Image to the Main Page from Local Folder](https://www.google.com/imgres?q=damage%20plant%20leaf&imgurl=https%3A%2F%2Fwww.gardenanswers.com%2Fwp-content%2Fuploads%2F2016%2F02%2F5833985259208704.jpeg&imgrefurl=https%3A%2F%2Fwww.gardenanswers.com%2Fshrubs%2Fleaf-damage%2F&docid=g2aQzKF-x0F0lM&tbnid=M8rvPQ9NQFKS6M&vet=12ahUKEwi715yg-raLAxVU4zgGHR4xBtcQM3oECHoQAA..i&w=600&h=800&hcb=2&ved=2ahUKEwi715yg-raLAxVU4zgGHR4xBtcQM3oECHoQAA)  <!-- Replace with your image path -->
+![Uploading the Image to the Main Page from Local Folder](https://tse3.mm.bing.net/th?id=OIP.nT113o02ReFJWwwMrDTOnAHaDt&pid=Api&P=0&h=180)  <!-- Replace with your image path -->
 
 1. Upload an image of a plant leaf.
 
@@ -40,16 +40,13 @@ The mobile application for plant disease detection is developed using a Python-b
    git clone https://github.com/Priyanshuomer/Krishi-Farm.git
    cd Krishi-Farm
    ```
-2. Install the required packages:
+2. Install the required packages and dependencies:
    ```bash
     npm init -y
     npm install
+   pip install -r requirements.txt
    ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the application:
+3. Run the application:
     ```bash
     streamlit run app.py
     node index.js
