@@ -6,7 +6,7 @@ This project outlines the technical design and implementation of a plant disease
 ## 1.Application Framework
 The mobile application for plant disease detection is developed using a Python-based framework known for its ease of use and rapid prototyping capabilities. It allows for the creation of interactive, user-friendly mobile applications with minimal effort. The app provides a simple interface for farmers and agricultural experts to upload images of tomato leaves and receive real-time predictions of possible diseases.
 ![Uploading the Image to the Main Page from Local Folder](![image](https://github.com/user-attachments/assets/a1c574bc-025e-4b3e-ae7a-4df27b493f56)
-)
+
 ### Features of Streamlit in this project:
 - **Real-time Image Upload**: Users can upload images of plant leaves to detect diseases.
 - **Disease Classification**: AI-powered model for identifying various plant diseases.
