@@ -15,8 +15,8 @@ The mobile application for plant disease detection is developed using a Python-b
 ![Uploading the Image to the Main Page from Local Folder](https://tse3.mm.bing.net/th?id=OIP.nT113o02ReFJWwwMrDTOnAHaDt&pid=Api&P=0&h=180)  <!-- Replace with your image path -->
 
 1. Upload an image of a plant leaf.
-![Uploading the Image to the Main Page from Local Folder](<img src="![image](https://github.com/user-attachments/assets/55958704-d2ec-44d6-9beb-1478368ec685)
-">)  <!-- Replace with your image path -->
+![Uploading the Image to the Main Page from Local Folder](https://debuggercafe.com/wp-content/uploads/2022/12/Plant-Disease-Detection-using-the-PlantDoc-Dataset-and-PyTorch-Faster-RCNN-e1670983189939.png)
+<!-- Replace with your image path -->
 2. The system analyzes the image and detects the disease (if any).
 
 3. Recommendations for suitable pesticides are provided.
